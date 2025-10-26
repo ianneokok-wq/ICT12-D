@@ -102,7 +102,7 @@
       <h2>Memories of ICT 12-D</h2>
       <p>Hi guys!! I made this website for our memories, I'll make it memorable and enjoyable. The time is so fast — we are going to be in college now and we will be separated. I LOVE YOU GUYSS!! I made this for all of you guys!!</p>
       <div class="gold-underline"></div>
-      <button class="btn-unique" onclick="ict.html">View Our Memory</button>
+      <button class="btn-unique" onclick="hehe.html">View Our Memory</button>
     </div>
   </div>
 
